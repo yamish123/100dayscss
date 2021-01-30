@@ -1,6 +1,6 @@
 # 100dayscss
 
-https://100dayscss.com/をやる。
+https://yamish123.github.io/100dayscss/
 
 ## Build Setup
 
